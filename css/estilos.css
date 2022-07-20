@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-image: linear-gradient(-45deg, #e3ddd9 50%, #36221c 50%);
+    font-family: 'Raleway',}
+    .presentacion{}
+h1{font-size: 70px; display: flex; justify-content: center; font-family:'Raleway'; color: #EF333F;}
+.buttons{font-size: 90px; display: flex;justify-content: center; color:#F8ED0C}
